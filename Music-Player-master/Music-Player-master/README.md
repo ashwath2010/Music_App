@@ -2,11 +2,6 @@
 
 ### Lightweight Music Player
 
-[![API](https://img.shields.io/badge/API-21%2B-orange.svg?logo=android&style=flat-square)](https://android-arsenal.com/api?level=21)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&style=flat-square)](https://t.me/max_four "Contact me in Telegram")
-[![Gmail](https://img.shields.io/badge/Gmail-666666.svg?logo=gmail&logoColor=D14836&style=flat-square)](mailto:mansurov.maksud@gmail.com "Write an email")
-
-
 <p align="center"><img width="128" height="128" src="https://raw.githubusercontent.com/MaxFour/Music-Player/master/images/Icon.png" /></p>
 
 
